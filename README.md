@@ -1,3 +1,7 @@
 # person_example
 learning about GitHub
 Edited as suggested in issue #1
+
+# Large bold is hashed.
+
+Used MarkDown
